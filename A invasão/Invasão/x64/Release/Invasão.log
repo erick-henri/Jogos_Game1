@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (A invasão.vcxproj, PacMan.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Alien.cpp
+  Fase1.cpp
+  Fase2.cpp
+  GameOver.cpp
+  Inicio.cpp
+  Invasão.cpp
+  Missile.cpp
+  Player.cpp
+  Progresso.cpp
+  Gerando código
+  0 of 1169 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Invasão.vcxproj -> C:\Users\erick\Desktop\Lab11\copia\A invasão\x64\Release\Invasão.exe

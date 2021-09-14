@@ -1,0 +1,29 @@
+﻿  compilation object save succeeded; see C:\Users\erick\Desktop\Lab11\copia\A invasão\A invasão\Shaders\Pixel.cso
+  compilation object save succeeded; see C:\Users\erick\Desktop\Lab11\copia\A invasão\A invasão\Shaders\Vertex.cso
+  Alien.cpp
+  Animation.cpp
+  Engine.cpp
+  Fase1.cpp
+  Fase2.cpp
+  Game.cpp
+  GameOver.cpp
+  Geometry.cpp
+  Graphics.cpp
+  Image.cpp
+  Inicio.cpp
+  Invasão.cpp
+  Missile.cpp
+  Object.cpp
+  Player.cpp
+  Progresso.cpp
+  Renderer.cpp
+  Scene.cpp
+  Sprite.cpp
+  Texture.cpp
+  Gerando Código...
+  Compilando...
+  TileSet.cpp
+  Timer.cpp
+  Window.cpp
+  Gerando Código...
+  A invasão.vcxproj -> C:\Users\erick\Desktop\Lab11\copia\A invasão\x64\Debug\A invasão.exe
